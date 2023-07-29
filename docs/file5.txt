@@ -1,0 +1,213 @@
+1.	Q: What does it mean to be diabetic?
+A: Diabetes, also known as Diabetes Mellitus, is a condition where one’s blood glucose levels are higher than normal. People with diabetes have high levels of glucose in their blood because their bodies are unable to process the glucose. This can be due to a lack of insulin being produced by the body (Type 1 diabetes) or their body cells having developed a resistance to insulin (Type 2 diabetes).
+
+2.	Q: How many types of diabetes are there?
+A: There are two major types of diabetes: Type 1 diabetes and Type 2 diabetes.
+
+3.	Q: What’s the difference between Type 1 and Type 2 diabetes?
+A: In Type 1 diabetes, In this condition, the pancreas makes little or no insulin. Without enough insulin, glucose builds up in the bloodstream instead of going into the cells. This buildup of glucose in the blood is called hyperglycemia. Over time, high glucose levels can affect the nerves and blood vessels and damage many organs and tissues of the body. People with Type 2 diabetes can produce insulin, but their bodies are unable to use it to break down glucose.
+
+4.	Q: How to manage Type 1 diabetes?
+A: Lifelong insulin injections are required to ensure that the body is able to process glucose effectively.
+
+5.	Q: How to manage Type 2 diabetes?
+A: It can be managed with a healthy diet and regular exercise, but most patients also need to take medication.
+
+6.	Q: Who gets diagnosed with Type 1 diabetes?
+A: Type 1 diabetes occurs in individuals at any age, although it is most often diagnosed in children or young adults.
+
+7.	Q: Who gets diagnosed with Type 2 diabetes?
+A: Individuals over 45 years old have a higher risk of developing type 2 diabetes. However, children or young adults who have a family history of diabetes, or are obese may also develop this condition.
+
+8.	Q: When should I start screening for diabetes?
+A: Individuals aged 40 years old and above are recommended to screen for diabetes at least once a year.
+
+9.	Q: What are the symptoms of diabetes?
+A: There are many different symptoms of diabetes, some of which include:
+●	Frequent urination
+●	Excessive thirst
+●	Weight loss despite eating well
+●	Extreme fatigue
+●	Sores that don’t heal
+●	Blurry vision
+
+10.	Q: What are the long-term complications of diabetes?
+A: Uncontrolled diabetes can cause the blood sugar to fluctuate between very high (hyperglycaemia) and very low (hypoglycaemia). Both situations can cause a diabetic to become very sick very quickly and even go into a coma. Other long-term complications of diabetes include:
+●	Coronary heart diseases such as angina or heart attack
+●	Stroke
+●	Eye disease
+●	Kidney disease
+●	Foot diseases such as numbness, ulcers and even gangrene
+●	Nerve disease which can lead to problems such as impotence and problems in movement of bowels
+
+11.	Q: Can diabetes become a chronic problem?
+A: Diabetes (Type 2) is also part of a group of chronic conditions known as metabolic syndrome, which includes high cholesterol, high blood pressure, and obesity. It is important to keep diabetes under control, so as to maintain your quality of life and reduce the risk of complications arising, such as heart diseases, strokes, kidney failure and blindness.
+
+Source:https://www.msdmanuals.com/en-sg/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetes-mellitus-dm
+
+12.	Q: What causes Type 1 diabetes?
+A: In Type 1 diabetes (formerly called insulin-dependent diabetes or juvenile-onset diabetes), the body's immune system attacks the insulin-producing cells of the pancreas, and more than 90% of them are permanently destroyed. The pancreas, therefore, produces little or no insulin. Scientists believe that an environmental factor—possibly a viral infection or a nutritional factor during childhood or early adulthood—causes the immune system to destroy the insulin-producing cells of the pancreas. A genetic predisposition makes some people more susceptible to an environmental factor.
+
+13.	Q: What causes Type 2 diabetes?
+A: In Type 2 diabetes (formerly called non–insulin-dependent diabetes or adult-onset diabetes), the pancreas often continues to produce insulin, sometimes even at higher-than-normal levels, especially early in the disease. However, the body develops resistance to the effects of insulin, so there is not enough insulin to meet the body’s needs. As Type 2 diabetes progresses, the insulin-producing ability of the pancreas decreases.
+
+14.	Q: What are other less known symptoms of diabetes?
+A: Other symptoms of diabetes include blurred vision, drowsiness, nausea, and decreased endurance during exercise.
+
+15.	Q: How do the symptoms present in Type 1 diabetes?
+A: In people with type 1 diabetes, the symptoms often begin abruptly and dramatically. A serious condition called diabetic ketoacidosis, a complication in which the body produces excess acid, may quickly develop. In addition to the usual diabetes symptoms of excessive thirst and urination, the initial symptoms of diabetic ketoacidosis also include nausea, vomiting, fatigue, and—particularly in children—abdominal pain. Breathing tends to become deep and rapid as the body attempts to correct the blood’s acidity (see Acidosis), and the breath smells fruity and like nail polish remover. Without treatment, diabetic ketoacidosis can progress to coma and death, sometimes very quickly.
+After type 1 diabetes has begun, some people have a long but temporary phase of near-normal glucose levels (honeymoon phase) due to partial recovery of insulin secretion.
+
+16.	Q: How do the symptoms present in Type 2 diabetes?
+A: People with type 2 diabetes may not have any symptoms for years or decades before they are diagnosed. Symptoms may be subtle. Increased urination and thirst are mild at first and gradually worsen over weeks or months. Eventually, people feel extremely fatigued, are likely to develop blurred vision, and may become dehydrated. Sometimes during the early stages of diabetes, the blood glucose level is abnormally low at times, a condition called hypoglycemia. Because people with type 2 diabetes produce some insulin, ketoacidosis does not usually develop even when type 2 diabetes is untreated for a long time. Rarely, the blood glucose levels become extremely high (even exceeding 1,000 mg/dL [55.5 mmol/L]). Such high levels often happen as the result of some superimposed stress, such as an infection or medication use. When the blood glucose levels get very high, people may develop severe dehydration, which may lead to mental confusion, drowsiness, and seizures, a condition called hyperosmolar hyperglycemic state. Many people with type 2 diabetes are diagnosed by routine blood glucose testing before they develop such severely high blood glucose levels.
+
+17.	Q: What is the ideal range for hemoglobin A1C level?
+A: People with diabetes aim for a hemoglobin A1C level of less than 7%. Achieving this level is sometimes difficult, but the lower the hemoglobin A1C level, the less likely people are to have complications. Doctors may recommend a slightly higher or lower target for certain people depending on their particular health situation. However, levels above 9% show poor control, and levels above 12% show very poor control. Most doctors who specialize in diabetes care recommend that hemoglobin A1C be measured every 3 to 6 months.
+
+18.	Q: Why is urine test not recommended in monitoring my blood glucose?
+A: Although urine can also be tested for the presence of glucose, checking urine is not a good way to monitor or adjust treatment. Urine testing can be misleading because the amount of glucose in the urine may not reflect the current level of glucose in the blood. Blood glucose levels can get very low or reasonably high without any change in the glucose levels in the urine.
+
+19.	Q: Why is my blood glucose level frequently unstable?
+A: People with type 1 diabetes may have more frequent swings in blood glucose levels because insulin production is completely absent. Infection, delayed movement of food through the stomach, and other hormonal disorders may also contribute to blood glucose swings. In all people who have difficulty controlling blood glucose, doctors look for other disorders that might be causing the problem and also give people additional education on how to monitor diabetes and take their medications.
+
+20.	Q: Can I prevent Type 1 diabetes?
+A: No treatments prevent the onset of type 1 diabetes mellitus. Some medications may induce remission of early type 1 diabetes in some people, possibly because they prevent the immune system from destroying the cells of the pancreas. However, these changes are temporary, and the medications cause side effects that limit their use.
+
+21.	Q: Can I prevent Type 2 diabetes?
+A: Type 2 diabetes can be prevented with lifestyle changes. People who are overweight and lose as little as 7 percent of their body weight and who increase physical activity (for example, walking 30 minutes per day) can decrease their risk of diabetes mellitus by more than 50%. Metformin, a medication that is used to treat diabetes, may reduce the risk of diabetes in people with impaired glucose regulation.
+
+22.	Q: What is hypoglycemia?
+A: Hypoglycemia is abnormally low levels of sugar (glucose) in the blood. Normally, the body maintains the level of glucose in the blood within a range of about 70 to 110 milligrams per deciliter (mg/dL), or 3.9 to 6.1 millimoles per liter (mmol/L) of blood. In hypoglycemia, the glucose level becomes too low. Although diabetes mellitus, a disorder involving blood glucose levels, is characterised by high levels of glucose in the blood (hyperglycemia), many people with diabetes periodically experience hypoglycemia due to side effects of diabetes treatment. Hypoglycemia is uncommon among people without diabetes.
+
+23.	Q: What causes hypoglycemia?
+A: Hypoglycemia is most often caused by medications taken to control diabetes. Much less common causes of hypoglycemia include other medications, critical illness or organ failure, a reaction to carbohydrates (in susceptible people), an insulin-producing tumor in the pancreas, and some types of bariatric (weight loss) surgery.
+
+24.	Q: Why are diabetics more prone to hypoglycemia?
+A: Most cases of hypoglycemia occur in people with diabetes and are caused by insulin or other medications (especially, sulfonylureas, see Medication Treatment of Diabetes Mellitus: Oral Antihyperglycemic Medications) that they take to lower the levels of glucose in their blood. Hypoglycemia is more common when intense efforts are made to keep the glucose levels in the blood as close to normal as possible, or when people who take insulin do not check blood glucose levels frequently enough. People with diabetes who reduce food intake or who develop chronic kidney disease are more likely to have hypoglycemia. Older people are more susceptible than younger people to hypoglycemia resulting from sulfonylurea medications.
+If, after taking a dose of a medication for diabetes, a person eats less than usual or is more physically active than normal, the medication may lower the level of glucose in the blood too much. People who have had diabetes for a long time are particularly prone to hypoglycemia in these situations because they may not produce enough glucagon or epinephrine to counteract a low level of glucose in the blood.
+
+25.	Q: What are the symptoms of hypoglycemia?
+A: Hypoglycemia symptoms rarely develop until the level of glucose in the blood falls below 60 mg/dL (3.3 mmol/L). Some people develop symptoms at slightly higher levels, especially when blood glucose levels fall quickly, and some do not develop symptoms until the glucose levels in their blood are much lower.
+●	Mild hypoglycemia: Sweating, nervousness, shaking, faintness, palpitations, and hunger
+●	Severe hypoglycemia: Dizziness, fatigue, weakness, headaches, inability to concentrate, confusion, slurred speech, blurred vision, seizures, and coma
+The body first responds to a fall in the level of glucose in the blood by releasing epinephrine from the adrenal glands. Epinephrine is a hormone that stimulates the release of glucose from body stores but also causes symptoms similar to those of an anxiety attack: sweating, nervousness, shaking, faintness, palpitations, and hunger.
+More severe hypoglycemia reduces the glucose supply to the brain, causing dizziness, fatigue, weakness, headaches, inability to concentrate, confusion, inappropriate behavior that can be mistaken for drunkenness, slurred speech, blurred vision, seizures, and coma. Severe and prolonged hypoglycemia may permanently damage the brain.
+Symptoms can begin slowly or suddenly, progressing from mild discomfort to severe confusion or panic within minutes. Sometimes, people who have had diabetes for many years (especially if they have had frequent episodes of hypoglycemia) are no longer able to sense the early symptoms of hypoglycemia, and faintness or even coma may develop without any other warning.
+
+26.	Q: How do I treat hypoglycemia?
+A: The symptoms of hypoglycemia are relieved within minutes of consuming sugar in any form, such as candy, glucose tablets, or a sweet drink, such as a glass of fruit juice. People with recurring episodes of hypoglycemia, especially those with diabetes, often prefer to carry glucose tablets because the tablets take effect quickly and provide a consistent amount of sugar. These people may benefit from consuming sugar followed by a food that provides longer-lasting carbohydrates (such as bread or crackers). When hypoglycemia is severe or prolonged and taking sugar by mouth is not possible, doctors quickly give glucose intravenously to prevent brain damage. People who are known to be at risk of episodes of severe hypoglycemia may keep glucagon on hand for emergencies. Glucagon administration stimulates the liver to release large amounts of glucose. It is given by injection or by a nasal inhaler and generally restores blood glucose to an adequate level within 5 to 15 minutes. Glucagon kits are easy to use, and family members or trusted others can be trained to administer the glucagon.
+
+27.	Q: What can I do to avoid hypoglycemia?
+A: If a medication is causing hypoglycemia, the dose is adjusted or the medication is changed. People who do not have diabetes but are prone to hypoglycemia often can avoid episodes by eating frequent small meals rather than the usual three meals a day. Limiting intake of carbohydrates, especially simple sugars, is sometimes advocated to prevent hypoglycemia that occurs after a meal (called reactive hypoglycemia). Alpha-glucosidase inhibitors, such as acarbose, which slow the absorption of carbohydrates, have also been used successfully in people with reactive hypoglycemia and post-bariatric surgery hypoglycemia.
+
+28.	Q: What medication can I take to lower blood glucose level?
+A: Oral antihyperglycemic medication can often lower blood glucose levels adequately in people with type 2 diabetes. However, they are not effective in type 1 diabetes. There are several types, but oral antihyperglycemic medications work in four major ways:
+●	Insulin secretagogues stimulate the pancreas to produce more insulin
+●	Insulin sensitisers do not affect the release of insulin but rather increase the body’s response to it
+●	Some medications delay absorption of glucose by the intestine
+●	Some medications increase glucose excretion in the urine
+
+Insulin secretagogues include sulfonylureas (for example, glyburide, glipizide, and glimepiride) and meglitinides (for example, repaglinide and nateglinide).
+Insulin sensitizers include biguanides (for example, metformin) and thiazolidinediones (for example, pioglitazone).
+Medications that delay absorption of glucose by the intestine include alpha-glucosidase inhibitors (for example, acarbose and miglitol).
+Medications that increase glucose secretion in the urine include sodium-glucose co-transporter-2 (SGLT2) inhibitors (for example, canagliflozin, dapagliflozin, and empagliflozin).
+Dipeptidyl peptidase-4 (DPP 4) inhibitors (for example, sitagliptin, saxagliptin, linagliptin, and alogliptin) both stimulate the pancreas to produce more insulin and delay the absorption of glucose by the intestine. These medications work by increasing glucagon-like peptide 1 (GLP-1).
+
+29.	Q: Why do I need to take medication for Type 2 diabetes?
+A: People with Type 2 diabetes are often prescribed oral antihyperglycemic medications if diet and exercise fail to lower the levels of glucose in the blood adequately. The medications are sometimes taken only once a day, in the morning, although some people need two or three doses. More than one type of oral medication, and/or an oral medication plus insulin or an injectable glucagon-like peptide 1 (GLP-1) medication or dual incretin agonist, may be used if one medication is not adequate.
+
+30.	Q: Why did my doctor prescribe other medication not for lowering blood glucose level?
+A: Because people with diabetes mellitus are at risk of complications, such as heart attacks and strokes, it is important that people take medications to prevent or treat these complications. Unless there is a reason people cannot take one of these medications (for example, an allergy to the medication), they may be given the following:
+●	Angiotensin converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARBs): For people with diabetes and high blood pressure or chronic kidney disease
+●	Aspirin: For people with diabetes and risk factors for cardiovascular disease
+●	Statins: For people 40 to 75 years-old with diabetes to decrease the risk of cardiovascular disease
+
+31.	Q: Why do complications develop with diabetes mellitus?
+A: Most complications of diabetes are the result of problems with blood vessels. Glucose levels that remain high over a long time cause both the small and large blood vessels to narrow. The narrowing reduces blood flow to many parts of the body, leading to problems. There are several causes of blood vessel narrowing:
+●	Complex sugar-based substances build up in the walls of small blood vessels, causing them to thicken and leak.
+●	Poor control of blood glucose levels causes the levels of fatty substances in the blood to rise, resulting in atherosclerosis and decreased blood flow in the larger blood vessels.
+Atherosclerosis leads to heart attacks and strokes. Atherosclerosis is between 2 and 4 times more common and tends to occur at a younger age in people with diabetes than in people who do not have diabetes. Over time, narrowing of blood vessels can harm the heart, brain, legs, eyes, kidneys, nerves, and skin, resulting in angina, heart failure, strokes, leg cramps during walking (claudication), poor vision, chronic kidney disease, damage to nerves (neuropathy), and skin breakdown.
+
+32.	Q: Why do I frequently get infections?
+A: People with diabetes often develop bacterial and fungal infections typically of the skin and mouth. When the levels of glucose in the blood are high, white blood cells cannot effectively fight infections. Any infection that develops tends to be more severe and takes longer to resolve in people with diabetes. Sometimes, an infection is the first sign of diabetes.
+One such infection is a yeast infection called candidiasis. Candida yeast is a normal resident of the mouth, digestive tract, and vagina that usually causes no harm. In people with diabetes, however, Candida can overgrow on mucous membranes and moist areas of the skin causing rashes in those areas.
+People with diabetes are also particularly likely to have ulcers and infections of the feet and legs because of poor circulation to the skin. Too often, these wounds heal slowly or not at all. When wounds do not heal, they typically become infected and this can result in gangrene (tissue death) and bone infection (osteomyelitis). Amputation of the foot or part of the leg may be needed.
+
+33.	Q: Does diabetes lead to liver damage?
+A: It is common for people with diabetes to also have fatty liver disease, in which abnormal fat deposits collect in the liver. Fatty liver disease can sometimes progress to more serious liver disease including cirrhosis. Doctors diagnose liver problems if liver blood tests are abnormal and confirm the diagnosis with a liver biopsy. Losing weight, maintaining good control of blood sugar levels, and treating high cholesterol can be helpful.
+
+34.	Q: Can my kidneys become damaged due to diabetes?
+A: The kidneys can malfunction, resulting in chronic kidney disease that may require dialysis or kidney transplantation. Doctors usually check the urine of people with diabetes for abnormally high levels of protein (albumin), which is an early sign of kidney damage. At the earliest sign of kidney complications, people are often given medications that slow the progression of kidney damage, for example, sodium-glucose co-transporter-2 (SGLT2) inhibitors (medications that increase glucose secretion in the urine), angiotensin-converting enzyme (ACE) inhibitors, or angiotensin II receptor blockers (ARBs).
+
+35.	Q: Can diabetes affect the nerves?
+A: Damage to nerves can manifest in several ways. If a single nerve malfunctions, an arm or leg may suddenly become weak. If the nerves to the hands, legs, and feet become damaged (diabetic polyneuropathy), sensation may become abnormal, and tingling or burning pain and weakness in the arms and legs may develop. Damage to the nerves of the skin makes repeated injuries more likely because people cannot sense changes in pressure or temperature.
+
+36.	Q: How does diabetes lead to foot problems?
+A: Diabetes causes many changes in the body. The following changes in the feet are common and difficult to treat:
+●	Damage to the nerves (neuropathy) affects sensation to the feet, so that pain is not felt. Irritation and other forms of injury may go unnoticed. An injury may wear through the skin before any pain is felt.
+●	Changes in sensation alter the way people with diabetes carry weight on their feet, concentrating weight in certain areas so that calluses form. Calluses (and dry skin) increase the risk of skin breakdown.
+●	Diabetes can cause poor circulation in the feet, making ulcers more likely to form when the skin is damaged and making the ulcers slower to heal.
+Because diabetes can affect the body’s ability to fight infections, a foot ulcer, once it forms, easily becomes infected. Because of neuropathy, people may not feel discomfort due to the infection until it becomes serious and difficult to treat, leading to gangrene. People with diabetes are more than 30 times more likely to require amputation of a foot or leg than are people without diabetes.
+
+37.	Q: What can I do to prevent foot problems from developing?
+A: Foot care is critical. The feet should be protected from injury, and the skin should be kept moist with a good moisturiser. Shoes should fit properly and not cause areas of irritation. Shoes should have appropriate cushioning to spread out the pressure caused by standing. Going barefoot is ill advised. Regular care from a podiatrist (a doctor specialising in foot care), such as having toenails cut and calluses removed, may also be helpful. Also, sensation and blood flow to the feet should be regularly evaluated by doctors.
+
+38.	Q: What can I do to monitor diabetes complications?
+A: At the time of diagnosis and then at least yearly, people with Type 2 diabetes are monitored for the presence of diabetes complications, such as kidney, eye, and nerve damage. In people with Type 1 diabetes, doctors begin monitoring for complications 5 years after diagnosis. Typical screening tests include the following:
+●	Foot examination to test sensation and look for signs of poor circulation (ulcers, hair loss)
+●	Eye examination (done by an eye specialist)
+●	Urine and blood tests of kidney function
+●	Blood tests for cholesterol levels
+●	Sometimes an electrocardiogram
+
+39.	Q: What can I do to prevent diabetes complications?
+A: Worsening of complications can be prevented or delayed by strict blood glucose control or by early treatment with medication. Risk factors for heart problems, such as increased blood pressure and high cholesterol levels, are evaluated at each doctor visit and are treated with medication if necessary. Proper care of feet and regular eye examinations can help prevent or delay the onset of complications of diabetes. People with diabetes are vaccinated against Streptococcus pneumoniae, hepatitis B, and COVID-19, and doctors usually recommend they receive annual flu vaccination because people with diabetes are at risk of infection. Treatment of high blood pressure and high cholesterol levels, which can contribute to circulation problems, can help prevent some of the complications of diabetes as well. People with diabetes who are between 40 and 75 years are given statin therapy to lower cholesterol levels and lower cardiovascular risk. People younger than 40 or older than 75 years and with an elevated risk of heart disease also should take a statin. Another common problem in people with diabetes is gum disease (gingivitis), and regular visits to the dentist for cleaning and preventive care are important.
+
+Source:https://www.msdmanuals.com/en-sg/home/eye-disorders/retinal-disorders/diabetic-retinopathy
+
+40.	Q: What is diabetic retinopathy?
+A: Diabetic retinopathy is damage to the retina (the transparent, light-sensitive structure at the back of the eye) as a result of diabetes.
+
+41.	Q: Does diabetes mellitus lead to diabetic retinopathy?
+A: After several years, some retinal change occurs in almost all people with diabetes, regardless of whether they use insulin therapy. People with diabetes who also have high blood pressure are at much higher risk of developing diabetic retinopathy because both conditions tend to damage the retina. Pregnancy can cause diabetic retinopathy to worsen.
+Repeated exposure to high levels of sugar (glucose) in the blood make the walls of small blood vessels, including those in the retina, weaker and, therefore, more prone to damage. Damaged retinal blood vessels leak blood and fluid into the retina. In general, retinopathy appears 5 years after people develop type 1 diabetes. Because diagnosis of type 2 diabetes may not occur for years, retinopathy may be present by the time people receive the diagnosis of type 2 diabetes.
+
+42.	Q: How many types of diabetic retinopathy are there?
+A: Diabetes mellitus can cause two types of changes in the eye. Nonproliferative diabetic retinopathy occurs first; then proliferative diabetic retinopathy occurs after and is more severe. In nonproliferative diabetic retinopathy, small blood vessels in the retina leak fluid or blood and may develop small bulges. Areas of the retina affected by leakage may swell, causing damage to parts of the field of vision. In proliferative diabetic retinopathy, damage to the retina stimulates the growth of new blood vessels. The new blood vessels grow abnormally, sometimes leading to bleeding (hemorrhage) or scarring. Extensive scarring may cause detachment of the retina.
+
+43.	Q: What are the symptoms of nonproliferative diabetic retinopathy?
+A: At first, the effects on vision may be minimal, but gradually vision may become impaired. Blind spots may occur, although these may not be noticed by the person and are usually discovered only if testing is done. If leakage occurs near the macula, the central area of the retina, which contains a high density of light-sensing cells, the central vision may be blurry. Swelling of the macula (macular edema) due to leakage of fluid from blood vessels can eventually cause significant loss of vision. However, people may not have vision loss even with advanced retinopathy.
+
+44.	Q: What are the symptoms of proliferative diabetic retinopathy?
+A: Symptoms of proliferative diabetic retinopathy may include blurred vision, floaters (black spots) or flashing lights in the field of vision, and sudden, severe, painless vision loss. Proliferative diabetic retinopathy results in greater loss of vision than nonproliferative diabetic retinopathy. It can result in total or near-total blindness due to a large hemorrhage into the vitreous humor (the jellylike substance that fills the back of the eyeball, also called the vitreous) or to a type of retinal detachment called traction retinal detachment. Growth of new blood vessels can also lead to a painful type of glaucoma (neovascular glaucoma). In neovascular glaucoma, abnormal blood vessels that have formed in the iris close the space between the iris and the cornea, blocking the drainage of fluid from the eye and causing buildup of pressure in the eye (glaucoma). Macular edema can cause significant loss of vision.
+
+45.	Q: How do I prevent the onset of diabetic retinopathy?
+A: The best way to prevent diabetic retinopathy is to control blood sugar and keep blood pressure at normal levels. People with diabetes should have an annual eye examination, in which the pupil is dilated with eye drops, so that retinopathy can be detected and any necessary treatment can be started early. Pregnant women with diabetes should have these eye examinations about once every 3 months.
+
+46.	Q: What is the treatment for diabetic retinopathy?
+A: Treatment of diabetic retinopathy is aimed at controlling blood sugar and blood pressure. People with fluid buildup in the macula (macular edema) are given eye injections of certain drugs (for example, ranibizumab, bevacizumab, or aflibercept), which are called anti–vascular endothelial growth factor (VEGF) drugs. People may also be given injected corticosteroid implants, which slowly release constant levels of a corticosteroid into the eye. Implants containing the corticosteroid dexamethasone are useful for people who have persistent macular edema. Implants containing the corticosteroid fluocinolone are available in certain countries for people who have macular edema caused by diabetes. Relieving macular edema with drugs may improve vision. Other treatments include laser photocoagulation, in which a laser beam is aimed into the eye at the retina to slow the growth of abnormal new retinal blood vessels and decrease leakage. Laser photocoagulation may need to be repeated. If bleeding from damaged vessels has been extensive, a procedure called vitrectomy may be needed. In this procedure, blood is removed from the cavity in which the vitreous humor lies. Vision often improves after vitrectomy is done to treat vitreous hemorrhage, traction retinal detachment, or macular edema. Laser treatment only rarely improves vision, but it commonly prevents further deterioration.
+
+47.	Q: Who is more prone to gestational diabetes?
+A: Gestational diabetes is more common among the following:
+●	Obese women
+●	Women with a family history of diabetes
+●	Certain ethnic groups, particularly Native Americans, Pacific Islanders, and women of Mexican, Indian, or Asian descent
+
+48.	Q: What causes gestational diabetes?
+A: Most women with gestational diabetes develop it because they cannot produce enough insulin. Insulin helps control the level of sugar (glucose) in the blood. More insulin is needed during pregnancy because the placenta produces a hormone that makes the body less responsive to insulin (a condition called insulin resistance). This effect is particularly noticeable late in the pregnancy, when the placenta is enlarging. As a result, the blood sugar level tends to increase. Then, even more insulin is needed. Some women may have had diabetes before becoming pregnant, but the disease was not recognized until they became pregnant.
+
+49.	Q: What are the risks of gestational diabetes?
+A: Early in pregnancy, poor control of diabetes increases the risk of the following:
+●	Having a baby with major birth defects
+●	Having a miscarriage
+Late in pregnancy, poor control of diabetes increases the risk of the following:
+●	Having a baby that weighs more than 9 pounds at birth
+●	Developing preeclampsia (a type of high blood pressure that occurs during pregnancy)
+●	Having a baby whose shoulder gets caught in the birth canal (shoulder dystocia)
+●	Needing a cesarean delivery
+●	Having a stillborn baby
+Babies born to women with diabetes tend to be larger than those born to women without diabetes. If diabetes is poorly controlled, babies may be particularly large. A large fetus is less likely to pass easily through the vagina and is more likely to be injured during vaginal delivery. Consequently, cesarean delivery may be necessary. Also, the fetus’s lungs tend to mature slowly. Newborns of women with diabetes are at increased risk of having low sugar, low calcium, and high bilirubin levels in the blood (hyperbilirubinemia).
+
+50.	Q: What can I do to treat diabetes when pregnant?
+A: Doctors advise women who have diabetes and who are planning to become pregnant to immediately start taking steps to control their blood sugar level if they have not already done so. These steps include following an appropriate diet, exercising, and, if needed, taking insulin. High-sugar foods are eliminated from the diet, and women should eat so that they do not gain excess weight during pregnancy. Most pregnant women with diabetes are asked to measure their blood sugar level several times a day at home using a home blood sugar monitoring device. If blood sugar levels are high, women may need to take an oral hypoglycemic drug or insulin. Treatment sometimes causes blood sugar levels to decrease too much (called hypoglycemia). Hypoglycemia, if severe, causes confusion and loss of consciousness and can occur without any warning. If a woman is prone to episodes of hypoglycemia (for example, if she has had Type 1 diabetes for a long time), she is given a glucagon kit and taught how to use it. Glucagon, when injected, increases blood sugar levels. A family member is also taught how to use the kit. Then if symptoms of severe hypoglycemia occur, the woman or the family member can inject glucagon. Controlling diabetes is particularly important late in pregnancy because then, the blood sugar level tends to increase. A higher dose of insulin is usually needed.
+

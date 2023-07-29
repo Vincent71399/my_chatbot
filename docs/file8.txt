@@ -1,0 +1,212 @@
+1.	Q: What is diabetes mellitus?
+A: Diabetes mellitus is a disorder in which the body does not produce enough or respond normally to insulin, causing blood sugar (glucose) levels to be abnormally high. Doctors often use the full name diabetes mellitus, rather than diabetes alone, to distinguish this disorder from diabetes insipidus. Diabetes insipidus is a relatively rare disorder that does not affect blood glucose levels but, just like diabetes mellitus, causes increased urination.
+
+2.	Q: What is glucose?
+A: Glucose is the sugar that is transported through the bloodstream and taken up by cells. The body can also make glucose from fats and proteins. Blood "sugar" really means blood glucose.
+
+3.	Q: What is a normal blood glucose level?
+A: The levels of glucose in the blood vary normally throughout the day. They rise after a meal and return to pre-meal levels within about 2 hours after eating. Once the levels of glucose in the blood return to pre-meal levels, insulin production decreases. The variation in blood glucose levels is usually within a narrow range, about 70 to 110 milligrams per deciliter (mg/dL), or 3.9 to 6.1 millimoles per liter (mmol/L) of blood in healthy people. If people eat a large amount of carbohydrates, the levels may increase more. People older than 65 years tend to have slightly higher levels, especially after eating.
+
+4.	Q: What are the symptoms of high blood glucose levels?
+A: The symptoms of high blood glucose levels include increased thirst, increased urination, and increased hunger.
+
+5.	Q: What is diabetic ketoacidosis?
+A: Diabetic ketoacidosis is an acute complication of diabetes that occurs mostly in type 1 diabetes mellitus. Diabetic ketoacidosis occurs mainly in people who have type 1 diabetes because their body produces little or no insulin. However, rarely, some people with type 2 diabetes develop ketoacidosis. People who abuse alcohol also can develop ketoacidosis (alcoholic ketoacidosis). Unlike in diabetic ketoacidosis, blood glucose levels are usually only mildly elevated.
+
+6.	Q: What are the symptoms of diabetic ketoacidosis?
+A: The initial symptoms of diabetic ketoacidosis include excessive thirst and urination, weight loss, nausea, vomiting, fatigue, and—particularly in children—abdominal pain. Breathing tends to become deep and rapid as the body attempts to correct the blood’s acidity. The breath has a fruity odor similar to nail polish remover because of the smell of the ketones escaping into the breath. Without treatment, diabetic ketoacidosis can progress to coma and death (especially in children).
+
+7.	Q: What caused diabetic ketoacidosis?
+A: In people who know they have diabetes, diabetic ketoacidosis can occur for two main reasons:
+●	People stop taking their insulin
+●	An illness stresses the body
+An illness usually increases the body's need for energy. Thus, when people become ill, they often need more insulin to move extra glucose into their cells. If people do not take extra insulin when they are ill, they can develop diabetic ketoacidosis.
+
+8.	Q: Can diabetic ketoacidosis be triggered by illnesses?
+A: Common illnesses that can trigger diabetic ketoacidosis include:
+●	Infections (such as pneumonia and urinary tract infections)
+●	Heart attack
+●	Stroke
+●	Pancreatitis
+
+9.	Q: Can medication cause diabetic ketoacidosis?
+A: Rarely, some medications, especially the sodium-glucose co-transporter-2 (SGLT-2) inhibitors, can cause diabetic ketoacidosis, even in people with type 2 diabetes.
+
+10.	Q: Can Type 2 diabetics develop diabetic ketoacidosis?
+A: Some people with type 2 diabetes are prone to develop ketoacidosis. This type of diabetes is called ketosis-prone diabetes, but is sometimes referred to as Flatbush diabetes. This type of diabetes is an unusual variant that is more likely to occur in people with obesity and in people of African ancestry.
+
+11.	Q: How do doctors check for diabetic ketoacidosis?
+A: Doctors diagnose diabetic ketoacidosis by measuring the level of ketones and acid in the blood and urine. People with diabetic ketoacidosis also have high blood glucose levels, but people may have high glucose levels without having diabetic ketoacidosis (see Hyperosmolar, Hyperglycemic State). Doctors typically also do tests, such as a chest x-ray and urine analysis, to look for an underlying infection and electrocardiography (ECG) to look for a heart attack
+
+12.	Q: Can I treat diabetic ketoacidosis at home?
+A: Diabetic ketoacidosis is a medical emergency. Hospitalization, usually in an intensive care unit, may be necessary. Large amounts of fluids are given intravenously along with electrolytes, such as sodium, potassium, chloride, and sometimes phosphate, to replace those fluids and electrolytes lost through excessive urination. Insulin is generally given intravenously so that it works quickly and the dose can be adjusted frequently. Blood levels of glucose, ketones, and electrolytes are measured every few hours. Doctors also measure the blood’s acid level. Sometimes, additional treatments are needed to correct a high acid level. However, controlling the levels of glucose in the blood with insulin and, giving fluids, and replacing electrolytes usually allow the body to restore the normal acid-base balance.
+
+13.	Q: What is hyperosmolar hyperglycemic state (HHS)?
+A:  Hyperosmolar hyperglycemic state is a complication of diabetes mellitus that most often occurs in type 2 diabetes. Because people with type 2 diabetes produce some insulin, ketoacidosis does not usually develop even when type 2 diabetes is untreated for a long time. However, with hyperosmolar hyperglycemic state, the blood glucose levels can become extremely high (even exceeding 1,000 milligrams per deciliter [mg/dL], or 55.5 millimoles per liter [mmol/L] of blood). Such very high blood glucose levels cause the person to pass large amounts of urine, which eventually causes severe dehydration and makes the person's blood abnormally concentrated (hyperosmolar). Thus, the disorder is called hyperosmolar hyperglycemic state.
+
+14.	Q: What causes hyperosmolar hyperglycemic state (HHS)?
+A: HHS can occur for two main reasons:
+●	People stop taking the medications for their diabetes
+●	An infection or other illness stresses the body
+
+Also, certain medications, such as corticosteroids, can raise blood glucose levels and cause hyperosmolar hyperglycemic state. Medications such as diuretics, which people often take to treat high blood pressure, can worsen dehydration and trigger hyperosmolar hyperglycemic state.
+
+
+15.	Q: What are the symptoms of HHS?
+A: The main symptom of hyperosmolar hyperglycemic state is a mental change. The change ranges from mild confusion and disorientation to drowsiness and coma. Some people have seizures and/or temporary partial paralysis resembling a stroke. Up to 20% of people die. Other symptoms that may precede the change in mental state include frequent urination and extreme thirst.
+
+16.	Q: How do doctors check for HHS?
+A: Doctors suspect the diagnosis of hyperosmolar hyperglycemic state when people who have recently developed confusion are found to have a very high blood glucose level. They confirm the diagnosis by doing additional blood tests that show very concentrated blood and low ketones or acidity in the bloodstream.
+
+17.	Q: How to treat HHS?
+A: Hyperosmolar hyperglycemic state is treated much like diabetic ketoacidosis. Fluids and electrolytes must be replaced intravenously. Usually, people are given insulin intravenously so that it works quickly and the dose can be adjusted frequently. The level of glucose in the blood must be restored to normal gradually to avoid sudden shifts of fluid within the brain. The blood glucose level tends to be more easily controlled than in diabetic ketoacidosis, and blood acidity problems are not severe.
+
+18.	Q: What is diabetic retinopathy?
+A: Diabetic retinopathy (DR) is a complication of diabetes that may be unnoticeable in its early stages, but which can lead to vision impairment and blindness. It affects an estimated one in three people living with diabetes, and is a primary cause of loss of vision and blindness in those aged between 20 and 65. Chronic hyperglycaemia causes damage to the retinal capillaries, and the risk is exacerbated by hypertension and dyslipidaemia. As per The Diabetes Retinopathy Barometer Report: Global Findings, the vast majority (79%) of respondents with diabetes, who had impaired vision due to DR or diabetic macular edema (DME), said their sight problems made everyday activities difficult, and in some cases impossible. These activities included driving, working, cooking, and even cleaning their home.
+
+19.	Q: What is diabetic macular edema (DME) ?
+A: Diabetic macular edema (DME) is a potential complication of diabetic retinopathy (DR). In people with type 2 diabetes, DME causes the most vision loss. DME involves the deterioration of the blood-retinal barrier in the eye, and a resulting pooling of fluid within the retina’s central area. This capillary leakage causes diffuse edema, whereas focal or multifocal leakage from grouped microaneurysms leads to localised edema.
+
+20.	Q: Can I still get diabetic retinopathy after removing cataracts?
+A: People with diabetes, especially those with DR, may develop DME after cataract surgery. The risk is highest in the first three to six months post-surgery.
+
+21.	Q: Can pregnant women develop DR?
+A: Women who are diagnosed with gestational DM have the same risk of developing diabetic retinopathy as the general population with diabetes. Therefore, the population with GDM, barring further complications, does not require routine eye examinations during pregnancy.
+
+22.	Q: Who is most at risk for developing DME?
+A: While everyone with diabetes is at risk of developing DME, elevated glycated haemoglobin (HbA1c) (>7%) and longer disease duration confer the most risk.
+
+23.	Q: What are the symptoms of DME?
+A: Often, DME develops slowly with few overt symptoms. Blurring of the central vision may be the first symptom the person notices. Severity at diagnosis ranges from mild (a regression of one line on a standardised eye chart) to complete loss of vision.
+
+24.	Q: Why is it important to keep active?
+A: The cells in your body become highly sensitive to insulin when you are physically active and better able to take up glucose from the blood for energy. You also get glucose into your cells from the contraction of your muscles without having to use insulin. It is because of this that regular physical activity can lower your blood glucose and improve your  HbA1C . Taking fewer diabetes pills or using less insulin may be possible when your HbA1C level drops. Extra activity also improves well-being, controls weight, reduces cancer and heart disease risk, and strengthens bones in addition to the muscles.
+
+25.	Q: What can I do to be more active?
+A: At least 30 minutes of physical activity 5 days a week is recommended. Children should aim for 1 hour a day. In order to promote a healthy heart. It is recommended to take 10,000 steps/day – this is about 5 miles. Any activity that raises your heart rate counts as activity. Any of the following could be included:
+●	A brisk walk
+●	Climbing flights of stairs
+●	Shopping (not internet shopping though!)
+●	Gardening
+●	Housework
+●	Dancing
+●	Yoga, Pilates, tai chi
+●	Active sports
+If you have a heart condition, you should avoid particularly strenuous activities, such as press-ups, lifting weights, and strenuous aerobic exercises like running. Any activity that requires getting up quickly should also be avoided. The healthcare team can advise you on which activities are most suitable if you have cardiovascular problems.
+
+26.	Q: When is a good time to check my blood sugar?
+A: Typical times to check blood sugar:
+●	Immediately after waking up, before you eat or drink anything
+●	Before eating
+●	After two hours of eating
+●	When you feel giddy/confused/sweaty/very hungry
+●	Before/after exercise
+●	When you are sick or not eating well
+●	At bedtime
+
+27.	Q: What’s the ideal blood sugar level?
+A: Diabetes patients should aim for the following blood sugar levels:
+●	Before meals : 4 to 7 mmol/L for people with type 1 or type 2 diabetes
+●	After meals : under 9 mmol/L for people with type 1 diabetes and under 8.5mmol/L for people with type 2 diabetes.
+
+HbA1c tests do not directly measure blood sugar levels, however, the results of the test are influenced by how high or low your blood glucose levels have tended to be over a period of two to three months.
+
+28.	Q: What tests are used to diagnose diabetes?
+A: Doctors use the following tests to find out if you have diabetes:
+●	Fasting plasma glucose test – Blood sugar levels are checked after fasting for 8 hours
+●	Oral glucose tolerance test – After fasting for 8 hours, a sugary drink is provided. Your blood sugar level will be checked 1 -2 hours and possibly 3 hours afterward. At 2 hours, a blood sugar level of 140mg/dL or lower is considered normal, 140-199mg/dL indicates you have pre-diabetes, and 200mg/dL or higher indicates you have diabetes
+●	Random check – Clinicians test your blood sugar randomly, and considers the other symptoms of diabetes (e.g. peeing more, always thirsty, you’ve gained/lost a significant amount of weight)
+●	HbA1c test – Measures your average blood sugar level over the past 2-3 months. 5.7% is normal, 5.7-6.4% indicates you have pre-diabetes, and 6.5% or higher indicates you have diabetes
+
+29.	Q: What is the blood sugar range for DM?
+A: Diabetes or pre-diabetes can be diagnosed under the following conditions:
+●	Normal: Below 42 mmol/mol (6.0%)
+●	Prediabetes: 42 to 47 mmol/mol (6.0 to 6.4%)
+●	Diabetes: 48 mmol/mol (6.5% or over)
+
+30.	Q: What is diabetic retinopathy?
+A: Diabetic retinopathy, the leading cause of blindness in the developed countries, is a complication of diabetes. It occurs when diabetes damages the tiny blood vessels inside the retina, the light sensitive area at the back of the eye.
+
+31.	Q: How does diabetic retinopathy develop?
+A: Most patients with diabetes mellitus ultimately develop characteristic abnormal changes of the blood vessels in their retinas. In its early, non-proliferative stage, the damaged blood vessels leak fluid and fat onto the retina. If this occurs in the central part of the retina, macular oedema develops. It is the leading cause of blindness in adult-onset diabetes patients. Later, there is narrowing of the blood vessels which restricts blood flow to the retina. This leads to abnormal growth of blood vessels in the retina (proliferative stage ), resulting in bleeding into the clear jelly in the centre of the eyeball and growth of abnormal fibrous tissues in the eye. The retina becomes separated from its attachment to the eyeball. Ultimately, glaucoma (increased pressure in the eyeball, due to blockages in the fluid drainage system caused by the abnormal growth of new blood vessels) can develop.
+
+32.	Q: What are the risk factors of DR?
+A: People with diabetes types 1 and 2 are at risk. The longer a person has diabetes, the higher the risk of developing diabetic retinopathy. Up to 21% of people with type 2 diabetes has retinopathy at the time of diagnosis of diabetes. Poor control of blood sugar levels, high blood pressure and cigarette smoking are risk factors.
+
+33.	Q: How can I check for DR?
+A: Diabetic retinopathy often has no early warning signs. Therefore, life-long checking is necessary. This is done by fundal examination, where the retina and the inside of the eye is checked using specialised medical instruments. Diabetic patients should have their fundi checked regularly by their doctor or have fundal photography done.
+
+34.	Q: How do I treat DR?
+A: To be examined by a specialist eye doctor early in the course of the disease is particularly important for patients with type 2 diabetes and severe non-proliferative retinopathy. It can be treated with laser surgery to seal off leaking blood vessels and destroy new growth. Despite laser surgery, some cases with advanced disease may not respond to treatment. In these patients, vitreous surgery may be required.
+
+35.	Q: What is peripheral neuropathy?
+A: Peripheral neuropathy is caused by nerve damage in your feet. Symptoms include pain, tingling, sensitivity, “pins and needles,” or numbness in the feet. As a result, it can be hard to know where your feet are, causing you to trip or fall. You can stay healthy by visiting the doctor regularly. You’ll have your feet checked every time. Please let them know if you notice any signs of peripheral neuropathy or any issues with your feet.
+
+36.	Q: Does DM worsen flu conditions?
+A: Diabetes increases your risk of serious complications if you get sick with the flu, especially if you are over 65. Diabetes and ageing weaken your immune system, making you less able to fight infections. Flu complications include:
+●	Pneumonia
+●	Bronchitis
+●	Sinus infections
+●	Ear infections
+Complications can lead to hospitalisation and even death in serious cases.
+
+37.	Q: Does flu make diabetes worse?
+A: Diabetes can also be made worse by the flu by raising blood sugar levels. Your blood sugar plummets if you don’t eat enough, and it can also affect your appetite. Call your doctor if you have the flu. Antiviral medications used to treat the flu are most effective when given within 48 hours of the onset of symptoms. Getting a flu shot every year is the best way to stay healthy. People with diabetes can use them safely. Additionally, you should get a pneumonia shot.
+
+38.	Q: Can diabetes lead to Alzheimer's?
+A: Many organs, including the brain, can be affected by high blood sugar. Alzheimer’s disease affects your memory, learning ability, reasoning ability, judgement, and your ability to do your normal daily tasks over time. Doctors still have a lot to learn about the connection, but the best way to reduce your chances is to keep your diabetes under control.
+
+39.	Q: What is diabetes mellitus?
+A: Diabetes mellitus is a condition associated with high blood sugar levels. When you consume carbohydrates, the body breaks it down into sugar. The pancreas then releases a hormone called insulin. The cells of the body use insulin to take in sugar and use it for energy. In diabetes mellitus, the pancreas is unable to make this insulin. The body may also be unable to use it effectively. This increases blood sugar levels. Over time, high blood sugar harms the eyes, kidneys and nerves. People living with diabetes are also at higher risk of heart attacks and strokes.
+
+40.	Q: How can I manage DM?
+A: You can manage diabetes by making changes to your lifestyle. This includes:
+●	Eating a healthy diet
+●	Staying active and maintaining a healthy body weight
+●	Taking your medications regularly to help keep blood sugar levels normal
+●	Maintaining your blood pressure and blood cholesterol levels in the healthy range
+
+Your doctor will also arrange for you to undergo regular screening of your eyes, feet and kidneys. This will pick up early complications. With proper care, many people with diabetes live long and well.
+
+41.	Q: What is gestational diabetes mellitus (GDM)?
+A: Gestational diabetes mellitus (GDM) is a type of diabetes that affects one in five pregnant women in Singapore. In most cases, GDM develops in the middle or towards the end of one's pregnancy.
+
+42.	Q: Should I be screened for GDM?
+A: Generally, all pregnant women will be screened for GDM at 24 to 28 weeks of their pregnancy. You could be screened earlier if you have any of the following risk factors:
+●	Body mass index (BMI) > 25kg/m2
+●	Previous baby > 4 kg at birth
+●	History of GDM
+●	Known prediabetes
+●	Family history of diabetes
+●	40 years old and above
+
+43.	Q: How do doctors test for GDM?
+A: GDM is diagnosed using an oral glucose tolerance test (OGTT). You are required to fast from midnight before the test (only plain water is allowed). The next morning, you will do a fasting blood sugar test, following which you will be required to drink a glucose drink within 5 minutes. Your blood will then be taken at the 1-hour and 2-hour interval.
+
+44.	Q: How does GDM affect my baby and me?
+A: Normal blood sugar level is essential for healthy pregnancies and babies. Abnormal blood sugar level can result in the following:
+●	your baby is growing bigger than average. A big baby increases the chance of injury during delivery as the baby’s shoulder may be stuck in the pelvis.
+●	your baby has a higher chance of a low blood sugar level or jaundice after birth.
+●	you have a higher chance of developing high blood pressure during pregnancy, preterm birth, needing induced labour or caesarean section, and stillbirth (death of baby in the womb).
+
+45.	Q: How is GDM treated?
+A: Healthy eating and exercise can help you to manage GDM and optimise your blood sugar. A dietitian will work with you on a personalised eating plan. You will learn to have well-balanced meals to support your pregnancy, and advice on carbohydrate amount and portion sizes. Most pregnant women can exercise safely, such as walking or swimming 30 minutes on most days. You may wish to discuss with your doctor to see if such exercises are suitable for you.
+
+46.	Q: Do I need medication for GDM?
+A: You may need injectable insulin if your blood sugar levels are not within targets with diet and exercise.
+
+47.	Q: How do I monitor my blood sugar?
+A: You will need to purchase a glucometer to monitor your blood sugar level. The diabetes care nurses will advise you on:
+●	blood sugar monitoring
+●	frequency of blood sugar monitoring (typically 7 tests a day, 2 to 3 days a week or more if required)
+●	blood sugar targets
+●	recording and reporting of blood sugar readings and food intake
+
+48.	Q: I have GDM. What happens after delivery?
+A: You are required to do an OGTT 6 to 12 weeks after delivery to determine if the abnormal blood sugar levels have resolved or persist after delivery. Women with a history of GDM have a higher risk of diabetes later in life. You can prevent diabetes by adopting a healthy lifestyle, i.e. healthy diet, active lifestyle and healthy body weight. You are advised to go for diabetes screening once every 1 to 3 years.
+
+49.	Q: Why must I go for regular eye tests even when I have no problems seeing?
+A: In the early stages of diabetic retinopathy, your sight may be normal. It is only in the later stages when one will notice vision problems. Eye tests allow diabetic retinopathy to be detected in the early stages. If treatment is given early, blindness can be prevented. Therefore, it is important for people with diabetes to undergo regular eye checks before vision problems surface.
+
+50.	Q: How does diabetes lead to cardiovascular diseases?
+A: Diabetes causes damage to blood vessels in your body and causes them to become blocked. This can lead to serious complications such as heart attacks and strokes.

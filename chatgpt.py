@@ -46,6 +46,7 @@ while True:
     query = input("Prompt: ")
   if query in ['quit', 'q', 'exit']:
     sys.exit()
+  print(chat_history)
   result = chain({"question": query, "chat_history": chat_history})
   print(result['answer'])
 
